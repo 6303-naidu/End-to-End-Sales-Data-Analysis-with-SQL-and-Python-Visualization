@@ -1,4 +1,4 @@
-# Sales Insights Project (SQL + Python)
+# **End-to-End Sales Data Analysis with SQL and Python Visualization**
 
 ## Overview
 This project demonstrates how to build an end-to-end **Sales Insights Dashboard** using **SQL (SQLite)** and **Python**.  
